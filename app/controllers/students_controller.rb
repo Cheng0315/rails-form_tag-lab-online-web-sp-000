@@ -11,7 +11,5 @@ class StudentsController < ApplicationController
   def new
   end
 
-  def students/new
-  end
 
 end
