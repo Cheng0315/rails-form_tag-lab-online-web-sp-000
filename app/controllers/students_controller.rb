@@ -8,7 +8,7 @@ class StudentsController < ApplicationController
     @student = Student.find(params[:id])
   end
 
-  def form
+  def new
   end
 
 end
