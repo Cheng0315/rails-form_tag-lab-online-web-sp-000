@@ -11,5 +11,6 @@ class StudentsController < ApplicationController
   def new
   end
 
-
+  def new_student
+  end
 end
